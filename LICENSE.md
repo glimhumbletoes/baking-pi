@@ -1,4 +1,4 @@
-- No Lincense -
+-- No Lincense --
 
 This is a mostly learning exercise on my behalf, whilst I have some experience with x86 ASM, I've previously had none with ARM. That said if you want to ask any questions, please feel free to message me and I'll do my best to stumble through an answer.
 
