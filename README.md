@@ -1,6 +1,6 @@
 Baking-Pi 
 
-"Baking Pi" is a free online walk through offered by Cambridge University tailored towards give the reader a rudementary understanding of the principals behind creating an opearting system for the Raspberry Pi (http://raspberrypi.org). This repository contains my interpretation of this tutorial. 
+"Baking Pi" is a free online walk through offered by Cambridge University tailored towards giving the reader a rudementary understanding of the principals behind creating an opearting system for the Raspberry Pi (http://raspberrypi.org). This repository contains my interpretation of this tutorial. 
 
 All the code is based off the tools and directory structures provided by the University on the site downloads page. You'll probably need these to make any of this code.
 
