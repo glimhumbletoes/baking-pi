@@ -8,4 +8,5 @@
 *.map
 *.list
 
-toolchain/
+# Using vi for a lot of this so...
+*.swp
