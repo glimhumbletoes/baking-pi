@@ -1,0 +1,11 @@
+# Compiled Binarys and Intermediate Objects
+*.o
+*.elf
+*.img
+
+# Compiler Output and Logging
+*.ld
+*.map
+*.list
+
+toolchain/
