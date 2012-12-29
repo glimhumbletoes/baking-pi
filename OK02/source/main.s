@@ -21,7 +21,7 @@
 	set_light_state$:
 
 		# flag bit 16 (GPIO pin attached to the LED) and write out to the address space
-		# to turn the pin on or off (uses r2 as offset; see above for details).
+		# to turn the pin on or off (uses r10 as offset; see above for details).
 		mov r1, #1
 		lsl r1, #16
 		str r1, [r0, r10]

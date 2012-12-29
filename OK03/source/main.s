@@ -27,7 +27,7 @@
 		bl SetGpioPin
 
 
-		# invert state of r12
+		# invert state of r1
 		mvn r1, r1
 
 		# reload the wait buffer
